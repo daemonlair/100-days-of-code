@@ -15,4 +15,4 @@
 
 **Thoughts:** ROS is a really useful and fun software. There are multiple additional softwares that can be used such as Gazebo, Unity etc. I want to be able to write plugins to other softwares for ROS. Need to learn more for that :)
 
-**Link to work:** [Logging Repository](https://github.com/daemonlair/)
+**Link to work:** [ROS Project](https://github.com/daemonlair/)
